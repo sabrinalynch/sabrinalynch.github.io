@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Profile 
-subtitle: Well-implemented awesomeness 
+subtitle: PhD Candidate in Biomedical Engineering 
 ---
 
 Insert CV here
