@@ -28,7 +28,7 @@ avatar: "/img/ijnm_bme_coverimage_v1.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""	 
-  Software: "software"	  
+  Profile: "profile"	  
   About the lab: "aboutus"	  
   Prospective members: "joining"
   #Author's home: "http://deanattali.com"
