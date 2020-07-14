@@ -27,10 +27,10 @@ avatar: "/img/ijnm_bme_coverimage_v1.png"
 
 # List of links in the navigation bar
 navbar-links:
-  About: "About"
-  Profile: "Profile"
-  Publications: "Publications"
-  Contact: "Contact"
+  Home: ""	  Home: "About"
+  Software: "software"	  Software: "Profile"
+  About the lab: "aboutus"	  About the lab: "Publications"
+  Prospective members: "joining"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
@@ -48,10 +48,10 @@ author:
 footer-links-active:
   rss: false
   facebook: false 
-  email: false 
+  email: true 
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
 
 # How to display the link to the website in the footer
