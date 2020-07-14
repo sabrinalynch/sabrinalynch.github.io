@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: COMBINE-lab  
+title: Sabrina Lynch 
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Research page for Sabrina Lynch, MS
 
 # --- Navigation bar options --- #
 
@@ -27,10 +27,10 @@ avatar: "/img/combine_lab_logo.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Software: "software"
-  About the lab: "aboutus"
-  Prospective members: "joining"
+  Home: "About"
+  Software: "Profile"
+  About the lab: "Publications"
+  Prospective members: "Contact"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
@@ -38,14 +38,12 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Rob Patro 
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: github.com/COMBINE-lab # eg. daattali
-  twitter: nomad421 # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
- 
+  name: Sabrina Lynch
+  email: "srlynch@umich.edu.com"
+  github: github.com/sabrinalynch # eg. daattali
+  twitter: sabrinarlynch # eg. daattali
+  linkedin: www.linkedin.com/in/sabrina-lynch-4a62a160  # eg. "pub/dean-attali/8/946/143"
+   
 # Select which links to show in the footer
 footer-links-active:
   rss: false
