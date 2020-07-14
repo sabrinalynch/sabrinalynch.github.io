@@ -20,23 +20,4 @@ The research interests of our lab broadly span many areas of computational biolo
   * Data representation and storage
     * read compression, dynamic text indexing, direct query of compressed representations
   
-### Lab Members 
 
-#### Lab Director
-Rob Patro
-
-#### Ph.D. Students (in alphabetical order)
- * Laraib Malik
- * [Hirak Sarkar](https://sites.google.com/a/cs.stonybrook.edu/hirak/)
- * [Avi Srivastava](http://k3yavi.github.io/)
- * Mohsen Zakeri
-
-
-#### MS Students
- * Nitish Gupta
- * Komal Sanjeev
-
-#### Past Lab Members
- * Srikant Aggarwal
- * Eshita Bheda
- * Ayush Sengupta
