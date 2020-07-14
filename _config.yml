@@ -27,10 +27,10 @@ avatar: "/img/ijnm_bme_coverimage_v1.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "About"
-  Software: "Profile"
-  About the lab: "Publications"
-  Prospective members: "Contact"
+  About: "About"
+  Profile: "Profile"
+  Publications: "Publications"
+  Contact: "Contact"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
