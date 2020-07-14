@@ -27,9 +27,9 @@ avatar: "/img/ijnm_bme_coverimage_v1.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""	  Home: "About"
-  Software: "software"	  Software: "Profile"
-  About the lab: "aboutus"	  About the lab: "Publications"
+  Home: ""	 
+  Software: "software"	  
+  About the lab: "aboutus"	  
   Prospective members: "joining"
   #Author's home: "http://deanattali.com"
   
@@ -40,23 +40,21 @@ navbar-links:
 author:
   name: Sabrina Lynch
   email: "srlynch@umich.edu.com"
-  github: github.com/sabrinalynch # eg. daattali
+  github: sabrinalynch # eg. daattali
   twitter: sabrinarlynch # eg. daattali
-  linkedin: www.linkedin.com/in/sabrina-lynch-4a62a160  # eg. "pub/dean-attali/8/946/143"
+  linkedin: sabrina-lynch-4a62a160  # eg. "pub/dean-attali/8/946/143"
    
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false 
   email: true 
-  twitter: true
   github: true
+  twitter: true
   linkedin: true
-  stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "COMBINE-lab.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "sabrinalynch.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -69,7 +67,7 @@ url-pretty: "COMBINE-lab.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/New_York"
 markdown: kramdown
 gems: [jekyll-paginate]
 highlighter: rouge
