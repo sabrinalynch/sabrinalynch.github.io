@@ -30,7 +30,7 @@ navbar-links:
   Home: ""	 
   Profile: "profile"	  
   Research: "research"	  
-  Pubications: "publications"
+  Publications: "publications"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
