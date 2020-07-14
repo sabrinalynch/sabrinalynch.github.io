@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: Research
 subtitle: Better Biology through Better Algorithms
 published: true
 ---
