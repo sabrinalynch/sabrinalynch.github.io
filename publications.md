@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research
+title: Publications
 published: true
 ---
 # Peer Reviewed Publications
