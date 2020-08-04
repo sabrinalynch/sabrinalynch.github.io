@@ -18,6 +18,7 @@ capturing (DC) stabilization techniques to address the well-known oscillatory be
 in this paper enable to successfully address commonly found challenges when simulating mass transport processes in cardiovascular flows.
 
 Reference
+
 1) *Numerical Considerations for Advection‐Diffusion Problems in Cardiovascular Hemodynamics*, **S Lynch**, N Nama, J Zu, CJ Arthurs, O Sahni, CA Figueroa, International Journal for Numerical Methods in Biomedical Engineering, [DOI: 10.1002/cnm.3378](https://doi.org/10.1002/cnm.3378)
 
 #### Animal Models of Thrombosis
