@@ -20,7 +20,7 @@ Reference
 1) *Numerical Considerations for Advection‐Diffusion Problems in Cardiovascular Hemodynamics*, **S Lynch**, N Nama, J Zu, CJ Arthurs, O Sahni, CA Figueroa, International Journal for Numerical Methods in Biomedical Engineering, [DOI: 10.1002/cnm.3378](https://doi.org/10.1002/cnm.3378)
 
 #### Computational Models of Thrombosis
-Implemented and studied nonlinear reaction models of thrombin generation in both idealized and patient-specific models.
+Investigated nonlinear reaction models of thrombin generation in both idealized and patient-specific 3D models.
 
 #### non-Newtonian Hemodynamics
 Implemented various non-Newtonian constitutive models of viscosity into the cardiovascular hemodynamics software CRIMSON and investigated the effects of non-Newtonian viscosity in both arterial and venous patient-specific models.
